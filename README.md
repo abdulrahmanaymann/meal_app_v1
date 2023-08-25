@@ -24,10 +24,10 @@ Want to try cooking a meal? The app provides comprehensive recipe details, inclu
 
 Here are some screenshots from the app:
 
-![Screenshot 1](screenShots/1.png)
-![Screenshot 2](screenShots/2.png)
-![Screenshot 3](screenShots/3.png)
-![Screenshot 4](screenShots/4.png)
+<img src="screenShots/1.png" width="200">
+<img src="screenShots/2.png" width="200">
+<img src="screenShots/3.png" width="200">
+<img src="screenShots/4.png" width="200">
 
 ## Getting Started
 
